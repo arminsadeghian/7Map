@@ -1,0 +1,13 @@
+{
+    "name": "armin/7map",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "hekmatinasser/verta": "^8.1",
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "require-dev": {
+        "larapack/dd": "1.*"
+    }
+}
